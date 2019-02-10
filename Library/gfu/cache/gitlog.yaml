@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2019-02-09T22:56:10.092-05:00
+  initializedAtString: 2019-02-09T22:43:36.587-05:00
+  log:
+  - commitID: 2b08c08a6d7fd04c43320a9d347b9095cf181434
+    mergeA: 
+    mergeB: 
+    authorName: Harris Miller
+    authorEmail: hmiller20@roslynschools.org
+    commitEmail: hmiller20@roslynschools.org
+    commitName: Harris Miller
+    summary: Initial commit
+    description: Initial commit
+    timeString: 2019-02-09T22:43:36.000-05:00
+    commitTimeString: 2019-02-09T22:43:36.000-05:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\Harris\Documents\BREAD\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: .gitignore
+      fullPath: C:\Users\Harris\Documents\BREAD\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\.gitignore
+      fullPath: C:\Users\Harris\Documents\BREAD\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      status: 4
+      staged: 0

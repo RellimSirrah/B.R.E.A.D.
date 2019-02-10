@@ -1,0 +1,1086 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 5
+  lastUpdatedAtString: 2019-02-09T22:56:42.793-05:00
+  initializedAtString: 2019-02-09T22:43:36.739-05:00
+  entries:
+  - path: .collabignore
+    fullPath: C:\Users\Harris\Documents\BREAD\.collabignore
+    projectPath: .collabignore
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Prefabs.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Prefabs.meta
+    projectPath: Assets\Prefabs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Prefabs\toaster (1).prefab
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Prefabs\toaster (1).prefab
+    projectPath: Assets\Prefabs\toaster (1).prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Prefabs\toaster (1).prefab.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Prefabs\toaster (1).prefab.meta
+    projectPath: Assets\Prefabs\toaster (1).prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets.meta
+    projectPath: Assets\PuzzleAssets.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\blue.png
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\blue.png
+    projectPath: Assets\PuzzleAssets\blue.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\blue.png.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\blue.png.meta
+    projectPath: Assets\PuzzleAssets\blue.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\Capture.PNG
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\Capture.PNG
+    projectPath: Assets\PuzzleAssets\Capture.PNG
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\Capture.PNG.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\Capture.PNG.meta
+    projectPath: Assets\PuzzleAssets\Capture.PNG.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\cloud.png
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\cloud.png
+    projectPath: Assets\PuzzleAssets\cloud.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\cloud.png.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\cloud.png.meta
+    projectPath: Assets\PuzzleAssets\cloud.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\grass.png
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\grass.png
+    projectPath: Assets\PuzzleAssets\grass.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\grass.png.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\grass.png.meta
+    projectPath: Assets\PuzzleAssets\grass.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\New Piskel (1).png
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\New Piskel (1).png
+    projectPath: Assets\PuzzleAssets\New Piskel (1).png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\New Piskel (1).png.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\New Piskel (1).png.meta
+    projectPath: Assets\PuzzleAssets\New Piskel (1).png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\New Piskel.png
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\New Piskel.png
+    projectPath: Assets\PuzzleAssets\New Piskel.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\New Piskel.png.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\New Piskel.png.meta
+    projectPath: Assets\PuzzleAssets\New Piskel.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\red.png
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\red.png
+    projectPath: Assets\PuzzleAssets\red.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\red.png.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\red.png.meta
+    projectPath: Assets\PuzzleAssets\red.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\Scenes.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\Scenes.meta
+    projectPath: Assets\PuzzleAssets\Scenes.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\Scenes\Scene2.unity
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\Scenes\Scene2.unity
+    projectPath: Assets\PuzzleAssets\Scenes\Scene2.unity
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\Scenes\Scene2.unity.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\Scenes\Scene2.unity.meta
+    projectPath: Assets\PuzzleAssets\Scenes\Scene2.unity.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\Scenes\Scene3.unity
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\Scenes\Scene3.unity
+    projectPath: Assets\PuzzleAssets\Scenes\Scene3.unity
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\Scenes\Scene3.unity.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\Scenes\Scene3.unity.meta
+    projectPath: Assets\PuzzleAssets\Scenes\Scene3.unity.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\Scenes\Scene4.unity
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\Scenes\Scene4.unity
+    projectPath: Assets\PuzzleAssets\Scenes\Scene4.unity
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\Scenes\Scene4.unity.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\Scenes\Scene4.unity.meta
+    projectPath: Assets\PuzzleAssets\Scenes\Scene4.unity.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\Scenes\Scene5.unity
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\Scenes\Scene5.unity
+    projectPath: Assets\PuzzleAssets\Scenes\Scene5.unity
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\Scenes\Scene5.unity.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\Scenes\Scene5.unity.meta
+    projectPath: Assets\PuzzleAssets\Scenes\Scene5.unity.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\Scripts.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\Scripts.meta
+    projectPath: Assets\PuzzleAssets\Scripts.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\Scripts\NewBehaviourScript.cs
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\Scripts\NewBehaviourScript.cs
+    projectPath: Assets\PuzzleAssets\Scripts\NewBehaviourScript.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\Scripts\NewBehaviourScript.cs.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\Scripts\NewBehaviourScript.cs.meta
+    projectPath: Assets\PuzzleAssets\Scripts\NewBehaviourScript.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\Scripts\PlayerControl2.cs
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\Scripts\PlayerControl2.cs
+    projectPath: Assets\PuzzleAssets\Scripts\PlayerControl2.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\Scripts\PlayerControl2.cs.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\Scripts\PlayerControl2.cs.meta
+    projectPath: Assets\PuzzleAssets\Scripts\PlayerControl2.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\Scripts\SceneSwitch.cs
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\Scripts\SceneSwitch.cs
+    projectPath: Assets\PuzzleAssets\Scripts\SceneSwitch.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\Scripts\SceneSwitch.cs.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\Scripts\SceneSwitch.cs.meta
+    projectPath: Assets\PuzzleAssets\Scripts\SceneSwitch.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\Scripts\SceneSwitch2.cs
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\Scripts\SceneSwitch2.cs
+    projectPath: Assets\PuzzleAssets\Scripts\SceneSwitch2.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\Scripts\SceneSwitch2.cs.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\Scripts\SceneSwitch2.cs.meta
+    projectPath: Assets\PuzzleAssets\Scripts\SceneSwitch2.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\Scripts\SceneSwitch3.cs
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\Scripts\SceneSwitch3.cs
+    projectPath: Assets\PuzzleAssets\Scripts\SceneSwitch3.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\Scripts\SceneSwitch3.cs.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\Scripts\SceneSwitch3.cs.meta
+    projectPath: Assets\PuzzleAssets\Scripts\SceneSwitch3.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\sun.png
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\sun.png
+    projectPath: Assets\PuzzleAssets\sun.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\sun.png.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\sun.png.meta
+    projectPath: Assets\PuzzleAssets\sun.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\unnamed 1.png
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\unnamed 1.png
+    projectPath: Assets\PuzzleAssets\unnamed 1.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\unnamed 1.png.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\unnamed 1.png.meta
+    projectPath: Assets\PuzzleAssets\unnamed 1.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\unnamed.png
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\unnamed.png
+    projectPath: Assets\PuzzleAssets\unnamed.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\PuzzleAssets\unnamed.png.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\PuzzleAssets\unnamed.png.meta
+    projectPath: Assets\PuzzleAssets\unnamed.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Scenes.meta
+    projectPath: Assets\Scenes.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\Finish.unity
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Scenes\Finish.unity
+    projectPath: Assets\Scenes\Finish.unity
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\Finish.unity.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Scenes\Finish.unity.meta
+    projectPath: Assets\Scenes\Finish.unity.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\GameOver.unity
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Scenes\GameOver.unity
+    projectPath: Assets\Scenes\GameOver.unity
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\GameOver.unity.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Scenes\GameOver.unity.meta
+    projectPath: Assets\Scenes\GameOver.unity.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\Level1.unity
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Scenes\Level1.unity
+    projectPath: Assets\Scenes\Level1.unity
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\Level1.unity.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Scenes\Level1.unity.meta
+    projectPath: Assets\Scenes\Level1.unity.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\SampleScene.unity
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\SampleScene.unity.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Scenes\SampleScene.unity.meta
+    projectPath: Assets\Scenes\SampleScene.unity.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\TestLevel.unity
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Scenes\TestLevel.unity
+    projectPath: Assets\Scenes\TestLevel.unity
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\TestLevel.unity.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Scenes\TestLevel.unity.meta
+    projectPath: Assets\Scenes\TestLevel.unity.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\Title.unity
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Scenes\Title.unity
+    projectPath: Assets\Scenes\Title.unity
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\Title.unity.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Scenes\Title.unity.meta
+    projectPath: Assets\Scenes\Title.unity.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Scripts.meta
+    projectPath: Assets\Scripts.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Boss.cs
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Scripts\Boss.cs
+    projectPath: Assets\Scripts\Boss.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Boss.cs.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Scripts\Boss.cs.meta
+    projectPath: Assets\Scripts\Boss.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Camera.cs
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Scripts\Camera.cs
+    projectPath: Assets\Scripts\Camera.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Camera.cs.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Scripts\Camera.cs.meta
+    projectPath: Assets\Scripts\Camera.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\enemy.cs
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Scripts\enemy.cs
+    projectPath: Assets\Scripts\enemy.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\enemy.cs.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Scripts\enemy.cs.meta
+    projectPath: Assets\Scripts\enemy.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\EnemyBigChef.cs
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Scripts\EnemyBigChef.cs
+    projectPath: Assets\Scripts\EnemyBigChef.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\EnemyBigChef.cs.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Scripts\EnemyBigChef.cs.meta
+    projectPath: Assets\Scripts\EnemyBigChef.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Item.cs
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Scripts\Item.cs
+    projectPath: Assets\Scripts\Item.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Item.cs.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Scripts\Item.cs.meta
+    projectPath: Assets\Scripts\Item.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\PlayerControl1.cs
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Scripts\PlayerControl1.cs
+    projectPath: Assets\Scripts\PlayerControl1.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\PlayerControl1.cs.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Scripts\PlayerControl1.cs.meta
+    projectPath: Assets\Scripts\PlayerControl1.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Projectile.cs
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Scripts\Projectile.cs
+    projectPath: Assets\Scripts\Projectile.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Projectile.cs.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Scripts\Projectile.cs.meta
+    projectPath: Assets\Scripts\Projectile.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Spider.cs
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Scripts\Spider.cs
+    projectPath: Assets\Scripts\Spider.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Spider.cs.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Scripts\Spider.cs.meta
+    projectPath: Assets\Scripts\Spider.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\TitleScript.cs
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Scripts\TitleScript.cs
+    projectPath: Assets\Scripts\TitleScript.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\TitleScript.cs.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Scripts\TitleScript.cs.meta
+    projectPath: Assets\Scripts\TitleScript.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Win.cs
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Scripts\Win.cs
+    projectPath: Assets\Scripts\Win.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Win.cs.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Scripts\Win.cs.meta
+    projectPath: Assets\Scripts\Win.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sounds.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sounds.meta
+    projectPath: Assets\Sounds.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sounds\everythinginfood.wav
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sounds\everythinginfood.wav
+    projectPath: Assets\Sounds\everythinginfood.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sounds\everythinginfood.wav.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sounds\everythinginfood.wav.meta
+    projectPath: Assets\Sounds\everythinginfood.wav.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sounds\flavortown.wav
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sounds\flavortown.wav
+    projectPath: Assets\Sounds\flavortown.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sounds\flavortown.wav.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sounds\flavortown.wav.meta
+    projectPath: Assets\Sounds\flavortown.wav.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sounds\lamsauce.wav
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sounds\lamsauce.wav
+    projectPath: Assets\Sounds\lamsauce.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sounds\lamsauce.wav.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sounds\lamsauce.wav.meta
+    projectPath: Assets\Sounds\lamsauce.wav.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites.meta
+    projectPath: Assets\Sprites.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Backgrounds.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Backgrounds.meta
+    projectPath: Assets\Sprites\Backgrounds.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Backgrounds\colorbackground.png
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Backgrounds\colorbackground.png
+    projectPath: Assets\Sprites\Backgrounds\colorbackground.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Backgrounds\colorbackground.png.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Backgrounds\colorbackground.png.meta
+    projectPath: Assets\Sprites\Backgrounds\colorbackground.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Backgrounds\gameove.png
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Backgrounds\gameove.png
+    projectPath: Assets\Sprites\Backgrounds\gameove.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Backgrounds\gameove.png.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Backgrounds\gameove.png.meta
+    projectPath: Assets\Sprites\Backgrounds\gameove.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Backgrounds\gradient2.png
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Backgrounds\gradient2.png
+    projectPath: Assets\Sprites\Backgrounds\gradient2.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Backgrounds\gradient2.png.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Backgrounds\gradient2.png.meta
+    projectPath: Assets\Sprites\Backgrounds\gradient2.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Backgrounds\titlescreen.png
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Backgrounds\titlescreen.png
+    projectPath: Assets\Sprites\Backgrounds\titlescreen.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Backgrounds\titlescreen.png.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Backgrounds\titlescreen.png.meta
+    projectPath: Assets\Sprites\Backgrounds\titlescreen.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Backgrounds\youwin.png
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Backgrounds\youwin.png
+    projectPath: Assets\Sprites\Backgrounds\youwin.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Backgrounds\youwin.png.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Backgrounds\youwin.png.meta
+    projectPath: Assets\Sprites\Backgrounds\youwin.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Breads.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Breads.meta
+    projectPath: Assets\Sprites\Breads.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Breads\loaf1.png
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Breads\loaf1.png
+    projectPath: Assets\Sprites\Breads\loaf1.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Breads\loaf1.png.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Breads\loaf1.png.meta
+    projectPath: Assets\Sprites\Breads\loaf1.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Breads\loaf2.png
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Breads\loaf2.png
+    projectPath: Assets\Sprites\Breads\loaf2.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Breads\loaf2.png.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Breads\loaf2.png.meta
+    projectPath: Assets\Sprites\Breads\loaf2.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Breads\loaf3.png
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Breads\loaf3.png
+    projectPath: Assets\Sprites\Breads\loaf3.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Breads\loaf3.png.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Breads\loaf3.png.meta
+    projectPath: Assets\Sprites\Breads\loaf3.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Breads\loaf4.png
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Breads\loaf4.png
+    projectPath: Assets\Sprites\Breads\loaf4.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Breads\loaf4.png.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Breads\loaf4.png.meta
+    projectPath: Assets\Sprites\Breads\loaf4.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Enemies.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Enemies.meta
+    projectPath: Assets\Sprites\Enemies.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Enemies\altonbrown.png
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Enemies\altonbrown.png
+    projectPath: Assets\Sprites\Enemies\altonbrown.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Enemies\altonbrown.png.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Enemies\altonbrown.png.meta
+    projectPath: Assets\Sprites\Enemies\altonbrown.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Enemies\chef.png
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Enemies\chef.png
+    projectPath: Assets\Sprites\Enemies\chef.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Enemies\chef.png.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Enemies\chef.png.meta
+    projectPath: Assets\Sprites\Enemies\chef.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Enemies\chef2.png
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Enemies\chef2.png
+    projectPath: Assets\Sprites\Enemies\chef2.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Enemies\chef2.png.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Enemies\chef2.png.meta
+    projectPath: Assets\Sprites\Enemies\chef2.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Enemies\fieri.png
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Enemies\fieri.png
+    projectPath: Assets\Sprites\Enemies\fieri.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Enemies\fieri.png.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Enemies\fieri.png.meta
+    projectPath: Assets\Sprites\Enemies\fieri.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Enemies\ramsay.png
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Enemies\ramsay.png
+    projectPath: Assets\Sprites\Enemies\ramsay.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Enemies\ramsay.png.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Enemies\ramsay.png.meta
+    projectPath: Assets\Sprites\Enemies\ramsay.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Main Guy.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Main Guy.meta
+    projectPath: Assets\Sprites\Main Guy.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Main Guy\dude1.png
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Main Guy\dude1.png
+    projectPath: Assets\Sprites\Main Guy\dude1.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Main Guy\dude1.png.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Main Guy\dude1.png.meta
+    projectPath: Assets\Sprites\Main Guy\dude1.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Main Guy\dude2.png
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Main Guy\dude2.png
+    projectPath: Assets\Sprites\Main Guy\dude2.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Main Guy\dude2.png.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Main Guy\dude2.png.meta
+    projectPath: Assets\Sprites\Main Guy\dude2.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Main Guy\dude3.png
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Main Guy\dude3.png
+    projectPath: Assets\Sprites\Main Guy\dude3.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Main Guy\dude3.png.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Main Guy\dude3.png.meta
+    projectPath: Assets\Sprites\Main Guy\dude3.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Main Guy\dude4.png
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Main Guy\dude4.png
+    projectPath: Assets\Sprites\Main Guy\dude4.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Main Guy\dude4.png.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Main Guy\dude4.png.meta
+    projectPath: Assets\Sprites\Main Guy\dude4.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Main Guy\dude5.png
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Main Guy\dude5.png
+    projectPath: Assets\Sprites\Main Guy\dude5.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Main Guy\dude5.png.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Main Guy\dude5.png.meta
+    projectPath: Assets\Sprites\Main Guy\dude5.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Main Guy\dude6.png
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Main Guy\dude6.png
+    projectPath: Assets\Sprites\Main Guy\dude6.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Main Guy\dude6.png.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Main Guy\dude6.png.meta
+    projectPath: Assets\Sprites\Main Guy\dude6.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Main Guy\dude7.png
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Main Guy\dude7.png
+    projectPath: Assets\Sprites\Main Guy\dude7.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Main Guy\dude7.png.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Main Guy\dude7.png.meta
+    projectPath: Assets\Sprites\Main Guy\dude7.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Main Guy\dude8.png
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Main Guy\dude8.png
+    projectPath: Assets\Sprites\Main Guy\dude8.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\Main Guy\dude8.png.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\Main Guy\dude8.png.meta
+    projectPath: Assets\Sprites\Main Guy\dude8.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\World Objects.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\World Objects.meta
+    projectPath: Assets\Sprites\World Objects.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\World Objects\background.png
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\World Objects\background.png
+    projectPath: Assets\Sprites\World Objects\background.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\World Objects\background.png.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\World Objects\background.png.meta
+    projectPath: Assets\Sprites\World Objects\background.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\World Objects\floor.png
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\World Objects\floor.png
+    projectPath: Assets\Sprites\World Objects\floor.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\World Objects\floor.png.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\World Objects\floor.png.meta
+    projectPath: Assets\Sprites\World Objects\floor.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\World Objects\gradient.png
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\World Objects\gradient.png
+    projectPath: Assets\Sprites\World Objects\gradient.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\World Objects\gradient.png.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\World Objects\gradient.png.meta
+    projectPath: Assets\Sprites\World Objects\gradient.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\World Objects\shelf.png
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\World Objects\shelf.png
+    projectPath: Assets\Sprites\World Objects\shelf.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\World Objects\shelf.png.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\World Objects\shelf.png.meta
+    projectPath: Assets\Sprites\World Objects\shelf.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\World Objects\table 1.png
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\World Objects\table 1.png
+    projectPath: Assets\Sprites\World Objects\table 1.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\World Objects\table 1.png.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\World Objects\table 1.png.meta
+    projectPath: Assets\Sprites\World Objects\table 1.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\World Objects\table.png
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\World Objects\table.png
+    projectPath: Assets\Sprites\World Objects\table.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\World Objects\table.png.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\World Objects\table.png.meta
+    projectPath: Assets\Sprites\World Objects\table.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\World Objects\toaster.png
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\World Objects\toaster.png
+    projectPath: Assets\Sprites\World Objects\toaster.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Sprites\World Objects\toaster.png.meta
+    fullPath: C:\Users\Harris\Documents\BREAD\Assets\Sprites\World Objects\toaster.png.meta
+    projectPath: Assets\Sprites\World Objects\toaster.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Packages\manifest.json
+    fullPath: C:\Users\Harris\Documents\BREAD\Packages\manifest.json
+    projectPath: Packages\manifest.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\AudioManager.asset
+    fullPath: C:\Users\Harris\Documents\BREAD\ProjectSettings\AudioManager.asset
+    projectPath: ProjectSettings\AudioManager.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\ClusterInputManager.asset
+    fullPath: C:\Users\Harris\Documents\BREAD\ProjectSettings\ClusterInputManager.asset
+    projectPath: ProjectSettings\ClusterInputManager.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\DynamicsManager.asset
+    fullPath: C:\Users\Harris\Documents\BREAD\ProjectSettings\DynamicsManager.asset
+    projectPath: ProjectSettings\DynamicsManager.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Users\Harris\Documents\BREAD\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\EditorSettings.asset
+    fullPath: C:\Users\Harris\Documents\BREAD\ProjectSettings\EditorSettings.asset
+    projectPath: ProjectSettings\EditorSettings.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\GraphicsSettings.asset
+    fullPath: C:\Users\Harris\Documents\BREAD\ProjectSettings\GraphicsSettings.asset
+    projectPath: ProjectSettings\GraphicsSettings.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\InputManager.asset
+    fullPath: C:\Users\Harris\Documents\BREAD\ProjectSettings\InputManager.asset
+    projectPath: ProjectSettings\InputManager.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\NavMeshAreas.asset
+    fullPath: C:\Users\Harris\Documents\BREAD\ProjectSettings\NavMeshAreas.asset
+    projectPath: ProjectSettings\NavMeshAreas.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\Physics2DSettings.asset
+    fullPath: C:\Users\Harris\Documents\BREAD\ProjectSettings\Physics2DSettings.asset
+    projectPath: ProjectSettings\Physics2DSettings.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\PresetManager.asset
+    fullPath: C:\Users\Harris\Documents\BREAD\ProjectSettings\PresetManager.asset
+    projectPath: ProjectSettings\PresetManager.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\ProjectSettings.asset
+    fullPath: C:\Users\Harris\Documents\BREAD\ProjectSettings\ProjectSettings.asset
+    projectPath: ProjectSettings\ProjectSettings.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\ProjectVersion.txt
+    fullPath: C:\Users\Harris\Documents\BREAD\ProjectSettings\ProjectVersion.txt
+    projectPath: ProjectSettings\ProjectVersion.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\QualitySettings.asset
+    fullPath: C:\Users\Harris\Documents\BREAD\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\TagManager.asset
+    fullPath: C:\Users\Harris\Documents\BREAD\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\TimeManager.asset
+    fullPath: C:\Users\Harris\Documents\BREAD\ProjectSettings\TimeManager.asset
+    projectPath: ProjectSettings\TimeManager.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\UnityConnectSettings.asset
+    fullPath: C:\Users\Harris\Documents\BREAD\ProjectSettings\UnityConnectSettings.asset
+    projectPath: ProjectSettings\UnityConnectSettings.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\VFXManager.asset
+    fullPath: C:\Users\Harris\Documents\BREAD\ProjectSettings\VFXManager.asset
+    projectPath: ProjectSettings\VFXManager.asset
+    originalPath: 
+    status: 1
+    staged: 0
